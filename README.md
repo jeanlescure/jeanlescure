@@ -1,3 +1,5 @@
+![](./welcome-header-gif.gif)
+
 ```
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWW=:::*WWWWWWWWWWWWWWWWWWWWWWWWWWWWW+:::#WWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWW=:::*WWWWWWWWWWWWWWWWWWWWWWWWWWWWW+:::#WWWWWWWWWWW
@@ -40,3 +42,20 @@ WWWWWWWWWWWWWWWWWWWWWWWWW+::::::::::::::::::::::::::::+WWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWW=::::::::::::::::::::=WWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWW=::::::::::::::::::::=WWWWWWWWWWWWWWWWWWWWWWWWWWWW
 ```
+
+<h1>
+  <img width="128" src="./cd-hand.gif"/> Code from my hands to yours
+</h1>
+
+<img width="48" src="./hot.gif"/> Check out some of my most popular projects:
+
+- https://simplyhexagonal.org
+- https://github.com/simplyhexagonal/short-unique-id
+- https://github.com/simplyhexagonal/create-jscad-project
+- https://github.com/simplyhexagonal/fastify-file-browser
+
+![](./singer.gif)![](./singer.gif)![](./singer.gif) THANKS FOR YOUR VISIT! ![](./singer.gif)![](./singer.gif)![](./singer.gif)
+
+---
+
+<img height="48" src="./ie-get.gif"/> <img height="48" src="./myspace.gif"/> <img height="48" src="./get-flash-player.png"/>
